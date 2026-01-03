@@ -101,7 +101,7 @@ No additional server configuration is required.
 
 ## Sample Run
 
-![Sample Run Image](image-path-or-url)
+![Sample Run Image](sample run.png)
 
 ---
 
