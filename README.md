@@ -101,7 +101,7 @@ No additional server configuration is required.
 
 ## Sample Run
 
-![Sample Run Image](sample run.png)
+![Sample Run Image](https://github.com/jairajrenjith/AI-Text-Cleaner-Enhancer/blob/main/sample%20run.png)
 
 ---
 
