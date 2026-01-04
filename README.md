@@ -68,6 +68,7 @@ Pretrained models are chosen because:
 ai-text-cleaner-enhancer/
 ├── app.py
 ├── requirements.txt
+├── sample run.png
 └── README.md
 ```
 
